@@ -39,10 +39,10 @@ function App() {
             </a>
             . Coded by{" "}
             <a
-              href='https://www.frontendmentor.io?ref=challenge'
+              href='https://www.frontendmentor.io/profile/Glory135'
               rel='noreferrer'
             >
-              Your Name Here
+              Glory
             </a>
             .
           </div>
